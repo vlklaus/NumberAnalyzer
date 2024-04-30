@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\net8.0\NumberAnalyzer.exe
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\net8.0\NumberAnalyzer.deps.json
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\net8.0\NumberAnalyzer.runtimeconfig.json
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\net8.0\NumberAnalyzer.dll
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\net8.0\NumberAnalyzer.pdb
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.dll
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\refint\NumberAnalyzer.dll
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.pdb
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\ref\NumberAnalyzer.dll
