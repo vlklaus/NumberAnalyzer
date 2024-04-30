@@ -16,9 +16,6 @@ only thing left to do
 
 */
 
-
-
-
 Console.Write("Please enter your name: ");
 string name = Console.ReadLine();
 
@@ -47,26 +44,19 @@ while (loop)
     }
     else
     {
-        if (num % 2 == 0)
+        if (num >= 2 && num <= 24)
         {
-            if (num < 60)
-            {
-                Console.WriteLine($"{name}, your integer is {num}. It is even and less than 60");
-            }
-            else if (num > 60)
-            {
-                Console.WriteLine($"{name}, your integer is {num}. It is even and greater than 60");
-            }
-            else if (num >= 2 && num <= 24)
-            {
-                Console.WriteLine($"{name}, your integer is {num}. It is even and less than 25");
-            }
-            else
-            {
-                Console.WriteLine($"{name}, your integer is {num}. It is even and between 26 and 60 inclusive");
-            }
+            Console.WriteLine($"{name}, your integer is {num}. It is even and less than 25");
+        } else if (num >= 26 &&  num <= 60)
+        {
+            Console.WriteLine($"{name}, your integer is {num}. It is even and between 26 and 60 inclusive");
+        } else if (num < 60)
+        {
+            Console.WriteLine($"{name}, your integer is {num}. It is even and less than 60");
+        } else
+        {
+            Console.WriteLine($"{name}, your integer is {num}. It is even and greater than 60");
         }
-
     }
     while (true)
     {

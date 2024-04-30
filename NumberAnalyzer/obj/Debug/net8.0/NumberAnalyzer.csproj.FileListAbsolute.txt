@@ -12,3 +12,4 @@ C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\re
 C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.pdb
 C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.genruntimeconfig.cache
 C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\ref\NumberAnalyzer.dll
+C:\Users\Victoria\source\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.sourcelink.json
